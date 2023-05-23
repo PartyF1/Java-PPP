@@ -1,0 +1,7 @@
+public interface User {
+public Nigger nigger;
+protected double whyNot;
+private int name;
+private int age;
+private String auf;
+}

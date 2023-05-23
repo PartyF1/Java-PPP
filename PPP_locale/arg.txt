@@ -1,2 +1,7 @@
-Word
-dada NoFiuada adawdawhreth dada dard
+public interface User {
+	private int name;
+			public Nigger nigger;
+	protected double whyNot;
+	private int age;
+	private String auf;
+}
